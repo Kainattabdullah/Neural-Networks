@@ -12,5 +12,5 @@ This repository contains multiple projects that explore various aspects of Artif
 - SMS Spam Detection
 - Sentiment Analysis
 - Hyperparameter Tuning
-- License
+  
 
